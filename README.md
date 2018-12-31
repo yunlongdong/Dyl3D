@@ -8,6 +8,8 @@ A lightweight custom 3D engine.
 * 3d-to-2d projection (to camera plane)
 * polygon render in camera plane
 
+![](https://raw.githubusercontent.com/yunlongdong/Dyl3D/master/images/rect.png)
+
 
 ### Dependency
 * numpy
