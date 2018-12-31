@@ -7,3 +7,11 @@ A lightweight custom 3D engine.
 * 3d rotation matrix
 * 3d-to-2d projection (to camera plane)
 * polygon render in camera plane
+
+
+### Dependency
+* numpy
+* cv2 
+
+### Reference
+* [rotation matrix wiki](https://en.wikipedia.org/wiki/Rotation_matrix)
